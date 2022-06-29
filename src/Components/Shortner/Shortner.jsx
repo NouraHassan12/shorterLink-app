@@ -49,9 +49,7 @@ function Shortner() {
           <div className="urlSec">
             <article>
               <div style={{ display: "flex", justifyContent: "center" }}>
-                <div style={{ color: "rgb(68 208 221)" }}>
-                  {shortenLink.full_short_link}
-                </div>
+                <div className="shortenLink">{shortenLink.full_short_link}</div>
               </div>
             </article>
 

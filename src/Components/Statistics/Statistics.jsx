@@ -9,8 +9,8 @@ function Statistics() {
       <div className="about">
         <h2 className="u-mb-small">Advanced Statistics</h2>
         <p className="u-mb-medium">
-          Track how your links are performing across the web with <br />
-          our advanced statistics dashboard.
+          Track how your links are performing across the web <br />
+          with our advanced statistics dashboard.
         </p>
       </div>
 

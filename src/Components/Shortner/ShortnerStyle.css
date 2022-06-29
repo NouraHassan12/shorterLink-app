@@ -119,3 +119,25 @@
     transform: translateY(-57%);
   }
 }
+.shortenLink {
+  color: rgb(68 208 221);
+}
+@media screen and (max-width: 400px) {
+  .copy_btn {
+    padding: 8px 2px;
+    font-size: 13px;
+  }
+  .shortenLink {
+    font-size: 13px;
+  }
+
+  .input-box form .link-btn {
+    font-size: 13px;
+
+    height: 40px;
+    margin-top: 30px;
+  }
+  .input-box form input {
+    font-size: 20px;
+  }
+}
