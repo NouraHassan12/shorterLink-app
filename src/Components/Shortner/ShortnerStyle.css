@@ -1,0 +1,121 @@
+.input-section {
+  background-color: #f8f2f2;
+}
+.input-box {
+  background-color: #68568a;
+  background-image: url(../../Images//bg-shorten-desktop.svg);
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  transform: translateY(-80%);
+}
+
+.urlSec {
+  background-color: white;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  transform: translateY(-139%);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.input-box form {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+@media screen and (max-width: 900px) {
+  .input-box form {
+    flex-direction: column;
+    text-align: center;
+  }
+  .input-box {
+    padding: 20px;
+  }
+  .input-box form .link-btn {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    width: 30%;
+    background-color: rgb(68, 200, 223);
+    border: transparent;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+
+    height: 50px;
+    margin-top: 20px;
+  }
+
+  .input-box form input {
+    padding: 24px;
+    font-size: 25px;
+    width: 100%;
+    border: transparent;
+    border-radius: 8px;
+    margin-right: 0px;
+    outline: none;
+    height: 50px;
+  }
+}
+.input-box form input {
+  padding: 24px;
+  font-size: 25px;
+  width: 80%;
+  border: transparent;
+  border-radius: 8px;
+  margin-right: 32px;
+  outline: none;
+  height: 50px;
+}
+.input-box form .link-btn {
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  width: 40%;
+  background-color: rgb(68, 200, 223);
+  border: transparent;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+
+  height: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .input-box form input {
+    width: 100%;
+    margin-right: 0px;
+  }
+  .input-box form .link-btn {
+    width: 50%;
+  }
+  .input-box {
+    padding: 10px;
+  }
+}
+.copy_btn {
+  background: rgb(68, 200, 223);
+  padding: 8px 27px;
+  margin: 8px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 19px;
+  border-radius: 5px;
+}
+.urlSec button:focus {
+  background: rgb(10, 52, 52);
+}
+@media screen and (max-width: 900px) {
+  .input-box {
+    transform: translateY(-57%);
+  }
+}
