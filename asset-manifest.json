@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shorterLink-app/static/css/main.ebc418f6.css",
-    "main.js": "/shorterLink-app/static/js/main.20d088dc.js",
+    "main.css": "/shorterLink-app/static/css/main.8d0d9ed7.css",
+    "main.js": "/shorterLink-app/static/js/main.d9c38d8a.js",
     "static/js/787.91e9b957.chunk.js": "/shorterLink-app/static/js/787.91e9b957.chunk.js",
     "static/media/illustration-working.svg": "/shorterLink-app/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
     "static/media/logo.svg": "/shorterLink-app/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
@@ -16,12 +16,12 @@
     "static/media/bg-shorten-desktop.svg": "/shorterLink-app/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b.svg",
     "static/media/icon-twitter.svg": "/shorterLink-app/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
     "static/media/icon-facebook.svg": "/shorterLink-app/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
-    "main.ebc418f6.css.map": "/shorterLink-app/static/css/main.ebc418f6.css.map",
-    "main.20d088dc.js.map": "/shorterLink-app/static/js/main.20d088dc.js.map",
+    "main.8d0d9ed7.css.map": "/shorterLink-app/static/css/main.8d0d9ed7.css.map",
+    "main.d9c38d8a.js.map": "/shorterLink-app/static/js/main.d9c38d8a.js.map",
     "787.91e9b957.chunk.js.map": "/shorterLink-app/static/js/787.91e9b957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebc418f6.css",
-    "static/js/main.20d088dc.js"
+    "static/css/main.8d0d9ed7.css",
+    "static/js/main.d9c38d8a.js"
   ]
 }
